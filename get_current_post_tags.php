@@ -1,6 +1,6 @@
 <?php 
 /**
- * Plugin Name: Get Current post tag
+ * Plugin Name: Get Current post tags
  * Description: Get all current post tags with the shortcode [lc_show_post_Tags]
  * Plugin URI:  https://github.com/lucassdantas/wpGetCurrentPostTags.git
  * Version:     1.0.0
